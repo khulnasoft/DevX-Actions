@@ -34,7 +34,7 @@ Fork this repo to have full control over all updates via Pull Requests. Create e
 
 Forked from [KhulnaSoft/Templates](https://github.com/KhulnaSoft/Templates), for which this is now a submodule.
 
-To see GitHub Contexts available, including undocumented fields, see [KhulnaSoft/DevX-Actions-Contexts](https://github.com/KhulnaSoft/DevX-Actions-Contexts).
+To see GitHub Contexts available, including undocumented fields, see [KhulnaSoft/DevX-Actions/tree/master/Contexts](https://github.com/KhulnaSoft/DevX-Actions/tree/master/Contexts).
 
 ## Examples
 
